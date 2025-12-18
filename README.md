@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I'm Muhammad Said Abimanyu
+
+💻 Frontend Developer (Beginner–Intermediate)
+🎓 Lulusan SMK Insan Nasional – Rekayasa Perangkat Lunak
+⭐ Kompeten dengan nilai 100 pada Ujian UKK Frontend Basic
+
+Saya memiliki minat besar di bidang Web Development, khususnya Frontend Development. Terbiasa mengembangkan tampilan web yang responsif dan interaktif menggunakan teknologi modern.
 
 
 ## 🌐 Socials:
